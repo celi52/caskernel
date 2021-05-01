@@ -1,4 +1,4 @@
-# Kernel-Based Structural-Temporal Cascade Learningfor Popularity Prediction
+# Kernel-Based Structural-Temporal Cascade Learning for Popularity Prediction
 This repo provides a reference implementation of **CasKernel**
 
 [comment]: <> ([comment]: <> &#40;>  Quantifying the Scientific Impact via Heterogeneous Dynamical Graph Neural Network  &#41;)
