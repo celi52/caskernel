@@ -23,15 +23,21 @@ Cuda==11.0.221
 ```
 
 ## Usage
-###Step1: Preprocess for generating cascade
+
+### Step1: Preprocess for generating cascade
+
 ```
 python preprocess.py
 ```
-###Step2: Generate cascade
+
+### Step2: Generate cascade
+
 ```
 python generate_cas.py
 ```
-###Step3: Training and Testing
+
+### Step3: Training and Testing
+
 ```
 python caskernel.py
 ```
